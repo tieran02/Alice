@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd464152f83dcbf408cb89e66731dcf1, type: 3}
+  m_Name: Paddle
+  m_EditorClassIdentifier: 
+  Name: Paddle
+  Description: A paddle for a boat
+  Sprite: {fileID: 21300000, guid: 7d4270aff1c66f94e828d48f37a1cfc7, type: 3}
+  Prefab: {fileID: 0}
+  DropedItem: {fileID: 0}
+  StackSize: 2
+  QuestItem: 1

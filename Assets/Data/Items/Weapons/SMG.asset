@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5c84e02ee4663499e19d3d833eb623, type: 3}
+  m_Name: SMG
+  m_EditorClassIdentifier: 
+  Name: SMG
+  Description: A fast fully automatic sub machine gun
+  Sprite: {fileID: 21300000, guid: 8de4cd816c99f1642855154210291c9b, type: 3}
+  Prefab: {fileID: 1535577352122736, guid: dc570acf800a9624b8d4026e7d8a9dec, type: 2}
+  DropedItem: {fileID: 1426141031613588, guid: 7f609adc85150de41a7d4741a1168946, type: 2}
+  StackSize: 1
+  QuestItem: 0
+  WeaponType: 3
+  Hands: 1

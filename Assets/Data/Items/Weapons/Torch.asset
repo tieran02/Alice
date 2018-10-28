@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df5c84e02ee4663499e19d3d833eb623, type: 3}
+  m_Name: Torch
+  m_EditorClassIdentifier: 
+  Name: Torch
+  Description: Lights up the area around you
+  Sprite: {fileID: 21300000, guid: e5cbb4d70e6a5b247af191787ac7e9eb, type: 3}
+  Prefab: {fileID: 1432887219033718, guid: a8fb0ade84172e449a84486af91e4efb, type: 2}
+  DropedItem: {fileID: 1426141031613588, guid: 8b5a8fb9e39aa6b4ab64f30274ad6ac3, type: 2}
+  StackSize: 2
+  QuestItem: 0
+  WeaponType: 4
+  Hands: 1

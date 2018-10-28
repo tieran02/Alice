@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd464152f83dcbf408cb89e66731dcf1, type: 3}
+  m_Name: HedgehogGrenade
+  m_EditorClassIdentifier: 
+  Name: Hedgehog Grenade
+  Description: Throw this friendly hedgehog at your enemies
+  Sprite: {fileID: 21300000, guid: 80b46207a0322ea418ca454c3ae8f5f4, type: 3}
+  Prefab: {fileID: 0}
+  DropedItem: {fileID: 0}
+  StackSize: 1
+  QuestItem: 1
